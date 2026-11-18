@@ -1,0 +1,12 @@
+# 构建中间产物
+build/MacroSeek.app/
+build/dmgstage/
+build/searchtest/
+
+# macOS 系统文件
+.DS_Store
+*.swp
+
+# 编译缓存
+.build/
+*.o
